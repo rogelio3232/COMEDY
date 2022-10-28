@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://200.116.232.66:8000/play/a040
+#EXTINF:-1,AMC HD
+http://200.116.232.66:8000/play/a04x
+#EXTINF:-1,AXN HD
+http://200.116.232.66:8000/play/a043
+#EXTINF:-1,Animal Planet HD
+http://200.116.232.66:8000/play/a052
+#EXTINF:-1,Cartoon Network HD
+http://200.116.232.66:8000/play/a04z
+#EXTINF:-1,Cinecanal HD
+http://200.116.232.66:8000/play/a04w
+#EXTINF:-1,Cinemax HD
+http://200.116.232.66:8000/play/a04h
+#EXTINF:-1,Comedy Central HD
+http://200.116.232.66:8000/play/a04i
+#EXTINF:-1,Discovery H&H HD
+http://200.116.232.66:8000/play/a04m
+#EXTINF:-1,Discovery HD
+http://200.116.232.66:8000/play/a059
+#EXTINF:-1,Discovery Kids HD
+http://200.116.232.66:8000/play/a04l
+#EXTINF:-1,Discovery World HD
+http://200.116.232.66:8000/play/a04v
+#EXTINF:-1,Disney HD
+http://200.116.232.66:8000/play/a04a
+#EXTINF:-1,E! HD
+http://200.116.232.66:8000/play/a055
+#EXTINF:-1,ESPN 2 HD
+http://200.116.232.66:8000/play/a045
+#EXTINF:-1,ESPN 3 HD
+http://200.116.232.66:8000/play/a04c
+#EXTINF:-1,ESPN 4 HD
+http://200.116.232.66:8000/play/a04p
+#EXTINF:-1,ESPN EXTRA HD
+http://200.116.232.66:8000/play/a04y
+#EXTINF:-1,ESPN HD
+http://200.116.232.66:8000/play/a054
+#EXTINF:-1,El Gourmet HD
+http://200.116.232.66:8000/play/a04k
+#EXTINF:-1,FOX Sports 2 HD
+http://200.116.232.66:8000/play/a04q
+#EXTINF:-1,FX HD
+http://200.116.232.66:8000/play/a04s
+#EXTINF:-1,Food Network HD
+http://200.116.232.66:8000/play/a056
+#EXTINF:-1,Fox Sports 1 HD
+http://200.116.232.66:8000/play/a05a
+#EXTINF:-1,Fox Sports 3 HD
+http://200.116.232.66:8000/play/a04d
+#EXTINF:-1,Golden HD
+http://200.116.232.66:8000/play/a053
+#EXTINF:-1,History 2 HD
+http://200.116.232.66:8000/play/a05b
+#EXTINF:-1,ID HD
+http://200.116.232.66:8000/play/a04j
+#EXTINF:-1,Las Estrellas HD
+http://200.116.232.66:8000/play/a058
+#EXTINF:-1,Nat Geo HD
+http://200.116.232.66:8000/play/a04u
+#EXTINF:-1,Nick HD
+http://200.116.232.66:8000/play/a048
+#EXTINF:-1,Paramount HD
+http://200.116.232.66:8000/play/a050
+#EXTINF:-1,Pasiones HD
+http://200.116.232.66:8000/play/a049
+#EXTINF:-1,STAR CHANNEL HD
+http://200.116.232.66:8000/play/a04n
+#EXTINF:-1,Sony HD
+http://200.116.232.66:8000/play/a041
+#EXTINF:-1,Space HD
+http://200.116.232.66:8000/play/a044
+#EXTINF:-1,Studio Universal HD
+http://200.116.232.66:8000/play/a051
+#EXTINF:-1,TNT HD
+http://200.116.232.66:8000/play/a04b
+#EXTINF:-1,TNT Series HD
+http://200.116.232.66:8000/play/a04r
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://200.116.232.66:8000/play/a04o
+#EXTINF:-1,Warner Channel HD
+http://200.116.232.66:8000/play/a042
+
